@@ -6,8 +6,8 @@
 
 - 🌱 Sou estudante da Generation
 - 😄 Pronomes: Ela/Dela
-- ⚡ Adoro Pizza!
-- 😊 Qualquer duvida me chame!
+- 🍕 Adoro Pizza!
+- ⚡ Qualquer duvida me chame!
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ymilharal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
