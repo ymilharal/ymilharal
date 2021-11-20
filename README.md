@@ -2,7 +2,7 @@
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/060170f6121435a854211b253b7dd32b.gif">
 </div>
 
-### Olá, eu sou a ✨ Yasmim Marques! ✨ 👋
+## Olá, eu sou a ✨ Yasmim Marques! ✨ 👋
 
 - 🌱 Sou estudante da Generation
 - 😄 Pronomes: Ela/Dela
