@@ -24,7 +24,7 @@
   </div>
    <div>
    <img align="left" alt="Yas-pic" height="250" src="https://imgur.com/FyXTSvP.gif">
-    <h3><img height="50" src="https://cdn.icon-icons.com/icons2/1738/PNG/512/iconfinder-technologymachineelectronicdevice10-4026450_113340.png"> Dev full stack iniciante <img height="50" src="https://cdn.icon-icons.com/icons2/1738/PNG/512/iconfinder-technologymachineelectronicdevice10-4026450_113340.png"> </h3>
+    <h3><img height="50" src="https://cdn.icon-icons.com/icons2/1738/PNG/512/iconfinder-technologymachineelectronicdevice10-4026450_113340.png"> Dev full stack<img height="50" src="https://cdn.icon-icons.com/icons2/1738/PNG/512/iconfinder-technologymachineelectronicdevice10-4026450_113340.png"> </h3>
     <div text="center"> <i> "Conheci esse mundo de desenvolvedores pela Generation Brasil e foi uma das melhores oportunidades que tive em minha vida, nunca me imaginei "codando" até porque não fazia ideia do que isso significava e bom aqui estou, amo codar, gosto um cadinho mais de Backend mas Front também tem um lugar especial no meu coração!"</i> </div>
  
 ![Snake animation](https://github.com/ymilharal/ymilharal/blob/output/github-contribution-grid-snake.svg)
